@@ -1,0 +1,13 @@
+{
+  "contracts": ["app/contracts/**"],
+  "app": {
+    "css/app.css": ["app/css/**"],
+    "js/app.js": ["embark.js", "app/js/**"],
+    "index.html": "app/index.html",
+    "admin.html": "app/admin.html",
+    "user.html": "app/user.html"
+  },
+  "buildDir": "dist/",
+  "config": "config/",
+  "plugins": {}
+}

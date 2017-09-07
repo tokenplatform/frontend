@@ -1,0 +1,15 @@
+{
+  "0xb6cfeab83614da04c03db0fb8a6787a45d0be8d576fcc6f8f457a5a816d22ab3": {
+    "contracts": {
+      "0x7f762cfaaec67a596e2a1f79915bce709f13360002670ff486bab03d5c4dade5": {
+        "name": "Token",
+        "address": "0x042f184e5885f0b7f42d35923a201d0afec1c939"
+      },
+      "0x1590c4924e0c7ef2f4c378d82c9a0638ac4118eae87d994b9b9f0436acf4130d": {
+        "name": "Token",
+        "address": "0x746f614d86c8904d855d7aba59160049f81b2c2a"
+      }
+    },
+    "name": "development"
+  }
+}
